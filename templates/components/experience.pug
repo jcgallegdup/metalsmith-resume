@@ -6,7 +6,10 @@ mixin experience(exp)
     h3.f3.mb2.mb0-p.fw6= exp.title
     //- Metadata
     +left-column
-      ul.list.ml0.pl0.f5.mt1.fw2
+      //- Image
+      if exp.image
+          img.mh3.mw3.fl(src=exp.image)
+      ul.list.ml0.pl0.f5.mt1.fw2.fl
         //- Place of Work
         li.fw5
           if exp.url
