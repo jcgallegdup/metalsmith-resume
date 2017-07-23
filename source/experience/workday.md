@@ -9,4 +9,4 @@ location: Victoria, BC
 image: 'https://media.glassdoor.com/sqll/197851/workday-squarelogo-1485303092465.png'
 ---
 
-- Assumed responsibilites similar to that of Junior Software Engineer.
+- Assumed responsibilites similar to those of Junior Software Engineer.
