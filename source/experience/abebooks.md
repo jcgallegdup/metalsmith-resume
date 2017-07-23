@@ -6,6 +6,7 @@ startDate: 2016-05-02
 endDate: 2016-08-31
 location: 'Victoria, BC'
 published: true
+image: 'https://media.glassdoor.com/sqll/12140/abebooks-squarelogo-1424986881816.png'
 ---
 
 - Designed and developed the inventory pipeline monitor, then deployed it on _AWS Lambda_.
