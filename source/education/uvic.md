@@ -6,4 +6,4 @@ endDate: 2019-04
 location: Victoria, BC
 ---
 
-Current GPA 3.7/4.0 in all Computer Science, Software Engineering, and Math courses.
+- Current GPA 3.7/4.0 in all Computer Science, Software Engineering, and Math courses.
