@@ -1,5 +1,5 @@
 ---
-title: Honours Computer Science Co-op Undergraduate
+title: Computer Science Honours
 subtitle: University of Victoria
 startDate: 2014-09
 endDate: 2019-04
