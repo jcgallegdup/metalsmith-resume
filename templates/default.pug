@@ -15,19 +15,19 @@ body.bg-white.bg-light-gray-page.bg-white-p.dark-gray(class= process.env.NODE_EN
     main.pa4.bg-white
       block content
 
-        if site.jobs > 0
-          +section-title
-            +accent-link('Experience', '/experience')
-          +section
-            - for (var i = 0; i < site.jobs; i++)
-              +experience(collections.experience[i])
-
         if site.schools > 0
           +section-title
             +accent-link('Education', '/education')
           +section
             - for (var i = 0; i < site.schools; i++)
               +experience(collections.education[i])
+
+        if site.jobs > 0
+          +section-title
+            +accent-link('Experience', '/experience')
+          +section
+            - for (var i = 0; i < site.jobs; i++)
+              +experience(collections.experience[i])
 
         if person.proficiencies.length > 0
           +section
